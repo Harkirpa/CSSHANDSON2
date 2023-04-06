@@ -1,0 +1,110 @@
+.uppercontainer{
+    display:flex;
+   justify-content: space-evenly;
+   flex-wrap: wrap;
+    
+}
+.box{
+    background-color: black;
+    color: white;
+    border: 8px solid red;
+    border-radius: 30px;
+    font-weight: bold;
+  
+}
+.leftbox{
+    width: 250px;
+    height: 100px;
+     margin-left: 100px;
+     text-align: center;
+}
+.midbox{
+    width: 350px;
+    height: 60px;
+    text-align: center;
+    margin-left: -100px;
+   
+    
+   
+}
+.rightbox{
+   
+   width:200px;
+    height: 100px;
+    align-items: baseline;
+   margin-left: 900px;
+   align-content: flex-end;
+
+  
+    
+}
+.circle{
+    border-radius: 70%;
+    width:300px;
+    height:300px;
+    background-color: lightgreen;
+    border:5px solid grey;
+    margin-left: 50px;
+    text-align: center;
+}
+.circletext{
+    margin-top: 50px;
+    
+   
+}
+
+.formbox{
+    width:600px;
+    height:450px;
+    border:10px red dashed;
+    text-align: center;
+    color: red;
+   align-items: center;
+   margin-left: 500px;
+   margin-top: 10px;
+   
+}
+
+.lowercontainer{
+    display:flex;
+    justify-content: space-evenly;
+    flex-wrap:wrap;
+  
+}
+.menubox{
+   width:300px;
+   height:300px;
+   border:5px solid grey;
+   background-color: lightblue;
+   margin-bottom: 50px;
+   border-radius: 15px;
+   color:darkblue;
+   text-align: center;
+}
+.lastbox{
+    height:320px;
+}
+body{
+    margin:0;
+    border: 10px groove green;
+    background-image: url("./clouds.jpg");
+
+}
+#menu{
+    line-height: 20px;
+    color:darkblue;
+}
+.middle{
+    
+    width:400px;
+    height:70px;
+    text-align: center;
+     margin: auto;
+}
+.midcontainer{
+    display: flex;
+    align-items: center;
+    
+    
+    
+}
