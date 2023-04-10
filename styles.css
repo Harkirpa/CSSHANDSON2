@@ -15,28 +15,29 @@
 .leftbox{
     width: 250px;
     height: 100px;
-     margin-left: 100px;
+     margin:30px;
+     padding: 20px 0px 0px 20px;
      text-align: center;
+     font-family: bold;
 }
 .midbox{
     width: 350px;
     height: 60px;
     text-align: center;
-    margin-left: -100px;
-   
-    
-   
+    margin-left: 277px;
+    margin-top: -152px;
+    font-family: bold;  
 }
 .rightbox{
    
    width:200px;
     height: 100px;
-    align-items: baseline;
+    margin-top: -90px;
    margin-left: 900px;
-   align-content: flex-end;
-
   
-    
+  
+   font-family: bold;
+  
 }
 .circle{
     border-radius: 70%;
@@ -44,8 +45,9 @@
     height:300px;
     background-color: lightgreen;
     border:5px solid grey;
-    margin-left: 50px;
+    margin-left: 80px;
     text-align: center;
+    margin-top: 100px;
 }
 .circletext{
     margin-top: 50px;
@@ -54,14 +56,15 @@
 }
 
 .formbox{
-    width:600px;
+    width:280px;
     height:450px;
     border:10px red dashed;
     text-align: center;
     color: red;
    align-items: center;
-   margin-left: 500px;
-   margin-top: 10px;
+   margin-left: 300px;
+   margin-top: 9px;
+   background-color: white;
    
 }
 
