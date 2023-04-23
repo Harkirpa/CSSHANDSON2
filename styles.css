@@ -30,11 +30,11 @@
 }
 .rightbox{
    
-   width:200px;
-    height: 100px;
+   width:219px;
+    height: 111px;
     margin-top: -90px;
    margin-left: 900px;
-  
+  text-align: center;
   
    font-family: bold;
   
@@ -62,7 +62,7 @@
     text-align: center;
     color: red;
    align-items: center;
-   margin-left: 300px;
+   margin-left: 213px;
    margin-top: 9px;
    background-color: white;
    
@@ -76,7 +76,7 @@
 }
 .menubox{
    width:300px;
-   height:300px;
+   height:250px;
    border:5px solid grey;
    background-color: lightblue;
    margin-bottom: 50px;
@@ -85,7 +85,7 @@
    text-align: center;
 }
 .lastbox{
-    height:320px;
+    height:290px;
 }
 body{
     margin:0;
@@ -100,7 +100,7 @@ body{
 .middle{
     
     width:400px;
-    height:70px;
+    height:60px;
     text-align: center;
      margin: auto;
 }
